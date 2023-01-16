@@ -25,7 +25,7 @@ span {
 
 .container {
   border-radius: 30px;
-  margin-top: 15%;
+  margin-top: auto;
   display: flex;
   align-items: center;
   justify-content: center;
